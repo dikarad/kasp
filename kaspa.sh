@@ -4,7 +4,7 @@
 # NOTE: address needs to start with "kaspa:"
 
 # mine to acc-pool
-./bzminer -a kaspa -w kaspa:0000 -p stratum+tcp://pool.woolypooly.com:3112
+./bzminer -a kaspa -w kaspa:qrusr0zh9aesyslxwha36pvcaznpeyclckq2r23v8ac37anfs5yz24k70meql.q -p stratum+tcp://pool.woolypooly.com:3112
 
 # mine to node
 #./bzminer -a kaspa -w kaspa:0000 -p node+tcp://127.0.0.1:16110
